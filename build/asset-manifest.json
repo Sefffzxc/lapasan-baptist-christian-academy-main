@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lapasan-baptist-christian-academy-main/static/css/main.204add63.css",
+    "main.js": "/lapasan-baptist-christian-academy-main/static/js/main.8ca8fad1.js",
+    "static/js/453.329d7767.chunk.js": "/lapasan-baptist-christian-academy-main/static/js/453.329d7767.chunk.js",
+    "index.html": "/lapasan-baptist-christian-academy-main/index.html",
+    "main.204add63.css.map": "/lapasan-baptist-christian-academy-main/static/css/main.204add63.css.map",
+    "main.8ca8fad1.js.map": "/lapasan-baptist-christian-academy-main/static/js/main.8ca8fad1.js.map",
+    "453.329d7767.chunk.js.map": "/lapasan-baptist-christian-academy-main/static/js/453.329d7767.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.204add63.css",
+    "static/js/main.8ca8fad1.js"
+  ]
+}
